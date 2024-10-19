@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @graciax452
-- 👀 I’m interested in unity dev
-- 🌱 I’m currently learning unity
-- 💞️ I’m looking to collaborate on educational games
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning react and javascript adn python
+- 💞️ I’m looking to collaborate on educational stuff
 - 📫 How to reach me ...here
 
 <!---
